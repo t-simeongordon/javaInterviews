@@ -1,0 +1,8 @@
+check list
+
+Check Package Declaration - make sure path is defined, this line should declare the package your class belongs to.
+
+run javac <filenmae> - If the compilation is successful, a new file named <fileName>.class will be created in the same directory. This is the compiled bytecode file that your Java program can execute.
+If there are any errors in your code, the compiler will display error messages in the terminal, indicating what needs to be fixed.
+
+java <fileName> - execute command to run code in terminal
