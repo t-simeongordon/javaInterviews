@@ -1,4 +1,6 @@
-public class Solution {
+package interviewQuestions.validateSubsequence;
+
+public class WhileLoop {
 
     public static boolean isValidSubsequence(int[] array, int[] sequence) {
         int arrIdx = 0;
